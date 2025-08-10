@@ -1,8 +1,13 @@
 
-# 💬 Real-Time Chat Application with Socket.io
+# 💬 Zulutech Real-Time Chat App
+## 🏷️ Badges
 
-A modular, culturally resonant real-time chat app built with **React**, **Express**, and **Socket.io**. Designed for seamless communication, scalable architecture, and Afrocentric storytelling. This project showcases real-time messaging, typing indicators, and clean modular design — ideal for collaborative platforms and community-driven tech.
+![Socket.io](https://img.shields.io/badge/Socket.io-Real--Time-blue)
+![React](https://img.shields.io/badge/React-18+-brightgreen)
+![Express](https://img.shields.io/badge/Express-Node.js-yellow)
+![MongoDB](https://img.shields.io/badge/MongoDB-Atlas-green)
 
+A full-stack real-time chat platform built with **React**, **Express**, and **Socket.io**, featuring live messaging, user presence, and advanced chat UX.
 
 ---
 
@@ -33,9 +38,11 @@ socketio-chat/ ├── client/ │ ├── public/ │ ├── src/ │ �
 - npm or yarn
 - MongoDB (local or Atlas)
 
+---
+
 ### Installation
 
-```bash
+
 # Clone your GitHub Classroom repo
 git clone https://github.com/PLP-MERN-Stack-Development/week-5-web-sockets-assignment-leonardphokane.git
 cd socketio-chat
@@ -56,18 +63,8 @@ npm run dev
 # Start the client
 cd ../client
 npm run dev
-📸 Screenshots / GIFs
-Add visuals of:
 
-Login flow
-
-Chat interface
-
-Typing indicator
-
-Read receipts
-
-Notifications
+---
 
 🌍 Deployment (Optional)
 Live App: zulutech-chat.vercel.app API: api.zulutech-chat.onrender.com
@@ -81,8 +78,9 @@ Express Docs
 
 GitHub Classroom Repo
 
-👨🏾‍💻 Author
-Leonard Phokane Tech Founder @ Zulutech Building Afrocentric, scalable tech for community empowerment.
+---
+
+
 
 ✅ Submission Checklist
 [x] Core chat functionality
@@ -95,23 +93,32 @@ Leonard Phokane Tech Founder @ Zulutech Building Afrocentric, scalable tech for 
 
 [x] Pushed to GitHub Classroom repo
 
-
 ---
-
-
-
-✅ Enhance client/README.md
-Let’s add:
 
 ## 📸 Screenshots
 
 | Login & Signup | Chat Interface |
 |----------------|----------------|
-| ![Login](../public/screens/login.png) | ![Chat](../public/screens/chat-ui.png) |
+| ![Login](../public/screens/login.png) | ![Chat](../public/screens/chat.png) |
 
 > Typing indicator and read receipts in action:
 > ![Typing](../public/screens/typing.png)
 
+📸 Screenshots / visuals of:
+ 
+
+Login flow
+
+Chat interface
+
+Typing indicator
+
+Read receipts
+
+Notifications
+
+
+---
 
 ## 🖼️ Zulutech Chat Screenshots
 
@@ -127,25 +134,44 @@ Let’s add:
 ### Socket Connection Status
 ![Socket Connected](../public/screens/socket-status.png)
 
-🌍 Deployment Links
-md
-## 🌍 Deployment
+
+---
+
+## 🌍 Deployment Links
 
 - **Live App**: [zulutech-chat.vercel.app](https://zulutech-chat.vercel.app)
 - **API Endpoint**: [api.zulutech-chat.onrender.com](https://api.zulutech-chat.onrender.com)
-🏷️ Badges (Optional Flair)
-md
-## 🏷️ Badges
 
-![Socket.io](https://img.shields.io/badge/Socket.io-Real--Time-blue)
-![React](https://img.shields.io/badge/React-18+-brightgreen)
-![Express](https://img.shields.io/badge/Express-Node.js-yellow)
-![MongoDB](https://img.shields.io/badge/MongoDB-Atlas-green)
-🔗 Update Root README.md
-To avoid overwriting the original, just add this line at the bottom of the root README.md:
 
-md
 ---
 
-👉 See [Leonard's Zulutech Chat Implementation](client/README.md)
+## 🏷 Community Tags
+
+`#PowerLearnProject` `#PLPCommunity` `#1MillionDevs4Africa`
+
+---
+
+### 👨🏾‍💻 Author
+Leonard Phokane Tech Founder @ Zulutech Building Afrocentric, scalable tech for community empowerment.
+
+---
+
+<section id="contact">
+  <h2>Contact</h2>
+   <!-- 👤 Profile Image -->
+  <img src="assets/leonard.png" alt="Leonard Phokane" style="width:120px; height:auto; border-radius:8px; margin-bottom:10px;" />
+  <p><strong>Author:</strong> Leonard Phokane</p>
+  <p><strong>Email:</strong> leonardphokane1@gmail.com</p>
+  <p><strong>Phone:</strong> +27 72 350 7514</p>
+
+  <!-- 🌐 Personal Website Link -->
+  <p><strong>Personal Website:</strong> 
+    <a href="https://phokane-creative-code.lovable.app/" target="_blank">
+      phokane-creative-code.lovable.app
+    </a>
+  </p>
+</section>
+
+---
+👉 See [Leonard's Zulutech Chat Implementation](client/docs/README.md)
 This keeps everything clean and GitHub Classroom-compliant.
