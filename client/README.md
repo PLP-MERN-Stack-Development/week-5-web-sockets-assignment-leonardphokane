@@ -1,9 +1,11 @@
 
-# 💬 Zulutech Real-Time Chat App
+# 💬 Real-Time Chat Application with Socket.io
 
-A full-stack real-time chat platform built with **React**, **Express**, and **Socket.io**, featuring live messaging, user presence, and advanced chat UX.
+A modular, culturally resonant real-time chat app built with **React**, **Express**, and **Socket.io**. Designed for seamless communication, scalable architecture, and Afrocentric storytelling. This project showcases real-time messaging, typing indicators, and clean modular design — ideal for collaborative platforms and community-driven tech.
+
 
 ---
+
 
 ## 🚀 Features
 
@@ -96,22 +98,16 @@ Leonard Phokane Tech Founder @ Zulutech Building Afrocentric, scalable tech for 
 
 ---
 
-Let me know when you’re ready to add screenshots, deployment links, or a badge section. I can also help you update the root `README.md` with a link to this nested version for clarity.
 
 
-
-
-Ready to add screenshots, deployment links, or a badge section. I can also help you update the root `README.md` with a link to this nested version for clarity.
-Awesome, Leonard — since your forked repo is hosted here on GitHub Classroom, we’ll now:
-
-✅ Enhance client/docs/README.md
+✅ Enhance client/README.md
 Let’s add:
 
 ## 📸 Screenshots
 
 | Login & Signup | Chat Interface |
 |----------------|----------------|
-| ![Login](../public/screens/login.png) | ![Chat](../public/screens/chat.png) |
+| ![Login](../public/screens/login.png) | ![Chat](../public/screens/chat-ui.png) |
 
 > Typing indicator and read receipts in action:
 > ![Typing](../public/screens/typing.png)
@@ -151,5 +147,5 @@ To avoid overwriting the original, just add this line at the bottom of the root 
 md
 ---
 
-👉 See [Leonard's Zulutech Chat Implementation](client/docs/README.md)
+👉 See [Leonard's Zulutech Chat Implementation](client/README.md)
 This keeps everything clean and GitHub Classroom-compliant.
