@@ -99,10 +99,10 @@ GitHub Classroom Repo
 
 | Login & Signup | Chat Interface |
 |----------------|----------------|
-| ![Login](../public/screens/login.png) | ![Chat](../public/screens/chat.png) |
+| ![Login](assets/login.png) | ![Chat](assets/chat.png) |
 
 > Typing indicator and read receipts in action:
-> ![Typing](../public/screens/typing.png)
+> ![Typing](assets/typing.png)
 
 📸 Screenshots / visuals of:
  
@@ -123,16 +123,16 @@ Notifications
 ## 🖼️ Zulutech Chat Screenshots
 
 ### Landing Page
-![Landing Page](../public/screens/landing.png)
+![Landing Page](assets/landing.png)
 
 ### Contact Page
-![Contact](../public/screens/contact.png)
+![Contact](assets/contact.png)
 
 ### Real-Time Messaging
-![Message Sent](../public/screens/message.png)
+![Message Sent](assets/message.png)
 
 ### Socket Connection Status
-![Socket Connected](../public/screens/socket-status.png)
+![Socket Connected](assets/socket-status.png)
 
 
 ---
