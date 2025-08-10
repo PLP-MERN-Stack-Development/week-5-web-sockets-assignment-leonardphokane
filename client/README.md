@@ -37,6 +37,8 @@ socketio-chat/ ├── client/ │ ├── public/ │ ├── src/ │ �
 - npm or yarn
 - MongoDB (local or Atlas)
 
+---
+
 ### Installation
 
 
@@ -61,6 +63,8 @@ npm run dev
 cd ../client
 npm run dev
 
+---
+
 🌍 Deployment (Optional)
 Live App: zulutech-chat.vercel.app API: api.zulutech-chat.onrender.com
 
@@ -75,8 +79,7 @@ GitHub Classroom Repo
 
 ---
 
-### 👨🏾‍💻 Author
-Leonard Phokane Tech Founder @ Zulutech Building Afrocentric, scalable tech for community empowerment.
+
 
 ✅ Submission Checklist
 [x] Core chat functionality
@@ -141,5 +144,33 @@ Notifications
 
 ---
 
+## 🏷 Community Tags
+
+`#PowerLearnProject` `#PLPCommunity` `#1MillionDevs4Africa`
+
+---
+
+### 👨🏾‍💻 Author
+Leonard Phokane Tech Founder @ Zulutech Building Afrocentric, scalable tech for community empowerment.
+
+---
+
+<section id="contact">
+  <h2>Contact</h2>
+   <!-- 👤 Profile Image -->
+  <img src="assets/leonard.png" alt="Leonard Phokane" style="width:120px; height:auto; border-radius:8px; margin-bottom:10px;" />
+  <p><strong>Author:</strong> Leonard Phokane</p>
+  <p><strong>Email:</strong> leonardphokane1@gmail.com</p>
+  <p><strong>Phone:</strong> +27 72 350 7514</p>
+
+  <!-- 🌐 Personal Website Link -->
+  <p><strong>Personal Website:</strong> 
+    <a href="https://phokane-creative-code.lovable.app/" target="_blank">
+      phokane-creative-code.lovable.app
+    </a>
+  </p>
+</section>
+
+---
 👉 See [Leonard's Zulutech Chat Implementation](client/docs/README.md)
 This keeps everything clean and GitHub Classroom-compliant.
