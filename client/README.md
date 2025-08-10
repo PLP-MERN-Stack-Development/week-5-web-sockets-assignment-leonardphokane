@@ -11,6 +11,7 @@ A full-stack real-time chat platform built with **React**, **Express**, and **So
 
 ---
 
+
 ## 🚀 Features
 
 - 🔄 Real-time messaging with Socket.io
@@ -158,7 +159,7 @@ Leonard Phokane Tech Founder @ Zulutech Building Afrocentric, scalable tech for 
 <section id="contact">
   <h2>Contact</h2>
    <!-- 👤 Profile Image -->
-  <img src="assets/leonard.png" alt="Leonard Phokane" style="width:120px; height:auto; border-radius:8px; margin-bottom:10px;" />
+  <img width="1024" height="1024" alt="leonard" src="https://github.com/user-attachments/assets/af19f844-ff54-4165-a125-0113863f870e" />
   <p><strong>Author:</strong> Leonard Phokane</p>
   <p><strong>Email:</strong> leonardphokane1@gmail.com</p>
   <p><strong>Phone:</strong> +27 72 350 7514</p>
