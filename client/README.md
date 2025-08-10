@@ -33,7 +33,7 @@ socketio-chat/ ├── client/ │ ├── public/ │ ├── src/ │ �
 
 ### Installation
 
-```bash
+
 # Clone your GitHub Classroom repo
 git clone https://github.com/PLP-MERN-Stack-Development/week-5-web-sockets-assignment-leonardphokane.git
 cd socketio-chat
