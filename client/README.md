@@ -1,5 +1,11 @@
 
 # 💬 Zulutech Real-Time Chat App
+## 🏷️ Badges
+
+![Socket.io](https://img.shields.io/badge/Socket.io-Real--Time-blue)
+![React](https://img.shields.io/badge/React-18+-brightgreen)
+![Express](https://img.shields.io/badge/Express-Node.js-yellow)
+![MongoDB](https://img.shields.io/badge/MongoDB-Atlas-green)
 
 A full-stack real-time chat platform built with **React**, **Express**, and **Socket.io**, featuring live messaging, user presence, and advanced chat UX.
 
@@ -54,18 +60,6 @@ npm run dev
 # Start the client
 cd ../client
 npm run dev
-📸 Screenshots / GIFs
-Add visuals of:
-
-Login flow
-
-Chat interface
-
-Typing indicator
-
-Read receipts
-
-Notifications
 
 🌍 Deployment (Optional)
 Live App: zulutech-chat.vercel.app API: api.zulutech-chat.onrender.com
@@ -79,7 +73,9 @@ Express Docs
 
 GitHub Classroom Repo
 
-👨🏾‍💻 Author
+---
+
+### 👨🏾‍💻 Author
 Leonard Phokane Tech Founder @ Zulutech Building Afrocentric, scalable tech for community empowerment.
 
 ✅ Submission Checklist
@@ -93,19 +89,7 @@ Leonard Phokane Tech Founder @ Zulutech Building Afrocentric, scalable tech for 
 
 [x] Pushed to GitHub Classroom repo
 
-
 ---
-
-Let me know when you’re ready to add screenshots, deployment links, or a badge section. I can also help you update the root `README.md` with a link to this nested version for clarity.
-
-
-
-
-Ready to add screenshots, deployment links, or a badge section. I can also help you update the root `README.md` with a link to this nested version for clarity.
-Awesome, Leonard — since your forked repo is hosted here on GitHub Classroom, we’ll now:
-
-✅ Enhance client/docs/README.md
-Let’s add:
 
 ## 📸 Screenshots
 
@@ -116,6 +100,21 @@ Let’s add:
 > Typing indicator and read receipts in action:
 > ![Typing](../public/screens/typing.png)
 
+📸 Screenshots / visuals of:
+ 
+
+Login flow
+
+Chat interface
+
+Typing indicator
+
+Read receipts
+
+Notifications
+
+
+---
 
 ## 🖼️ Zulutech Chat Screenshots
 
@@ -131,24 +130,15 @@ Let’s add:
 ### Socket Connection Status
 ![Socket Connected](../public/screens/socket-status.png)
 
-🌍 Deployment Links
-md
-## 🌍 Deployment
+
+---
+
+## 🌍 Deployment Links
 
 - **Live App**: [zulutech-chat.vercel.app](https://zulutech-chat.vercel.app)
 - **API Endpoint**: [api.zulutech-chat.onrender.com](https://api.zulutech-chat.onrender.com)
-🏷️ Badges (Optional Flair)
-md
-## 🏷️ Badges
 
-![Socket.io](https://img.shields.io/badge/Socket.io-Real--Time-blue)
-![React](https://img.shields.io/badge/React-18+-brightgreen)
-![Express](https://img.shields.io/badge/Express-Node.js-yellow)
-![MongoDB](https://img.shields.io/badge/MongoDB-Atlas-green)
-🔗 Update Root README.md
-To avoid overwriting the original, just add this line at the bottom of the root README.md:
 
-md
 ---
 
 👉 See [Leonard's Zulutech Chat Implementation](client/docs/README.md)
